@@ -2,6 +2,10 @@
 
 This Python script allows you to enter a phone number with a country code, and it will provide you with information about the phone number, including its location, service provider, and display its location on an interactive map.
 
+
+<img width="780" alt="image" src="https://github.com/IsmaelKiprop/track_phone_numbers/assets/133222922/3280339b-a660-4e18-92e1-8a251b4f57c6">
+
+
 ## Prerequisites
 
 Before running the script, make sure you have the following dependencies installed:
