@@ -44,6 +44,8 @@ To configure the script for your needs, you can update the key variable with you
 
 key = "YOUR_API_KEY"
 
+visit:https://opencagedata.com/ to get your API key
+
 ### Acknowledgments
 
 This project uses the phonenumbers library for phone number parsing.
